@@ -1,3 +1,4 @@
-switch_info/
+switch_info/*
 build/
 .vscode/
+.env

@@ -16,7 +16,7 @@ logging.basicConfig(level=logging.INFO)
 
 app = Flask(__name__)
 
-SYSTEM_VERSION = 1001  # 10.0.1
+SYSTEM_VERSION = 1002  # 10.0.2
 
 # You can get your user id and password from
 # su/baas/<guid>.dat in save folder 8000000000000010.
